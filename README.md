@@ -1,4 +1,4 @@
-## Oiiiee, eu sou o João! e estou aprendendo a programar 🤩
+## Olá meus amores 🤩
 <div align="center">
   <a href="https://github.com/JaooPedruu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaooPedruu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
